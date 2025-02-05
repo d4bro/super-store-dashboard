@@ -32,7 +32,7 @@ To run this application, you need to have Python installed on your system. Follo
 3. **Run the Application**
    Start the Streamlit app using the following command:
    ```bash
-   streamlit run streamlitapp.py
+   streamlit run app.py
    ```
 
 ## Usage
