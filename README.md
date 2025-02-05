@@ -40,6 +40,9 @@ To run this application, you need to have Python installed on your system. Follo
 Once the app is running, you can access it via the URL provided in your terminal (usually `http://localhost:8501`). Use the sidebar to select different report types and visualize the data.
 
 ## Dataset
+https://public.tableau.com/app/learn/sample-data
+
+Superstore Sales
 
 The application uses a sample dataset named `sample_-_superstore.xls`, which should be placed in the root directory of the project. This dataset includes information about sales orders, such as order date, ship date, category, sub-category, sales figures, profit, discounts, and customer segments.
 
