@@ -1,5 +1,7 @@
 ```markdown
+```
 # Superstore Sales Dashboard
+```
 ```
 This repository contains a Streamlit application for visualizing and analyzing sales data from a sample superstore dataset. The dashboard provides several interactive reports, including sales by category, regional distribution, time-based trends, and more.
 
